@@ -27,3 +27,4 @@
  	1.5. Switch to User Account
 	* Log out of the root account.
 	* Log in to the newly created user account with limited access.
+2. Next step
